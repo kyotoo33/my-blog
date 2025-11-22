@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://Avidikhuu.github.io',
+  url: 'https://kyotoo33.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-maker-blog/',
+  baseUrl: '/my-blog/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Avidikhuu', // Usually your GitHub org/user name.
-  projectName: 'my-maker-blog', // Usually your repo name.
+  organizationName: 'kyotoo33', // Usually your GitHub org/user name.
+  projectName: 'my-blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -97,7 +97,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Avidikhuu/my-maker-blog',
+            href: 'https://github.com/kyotoo33/my-blog',
             label: 'GitHub',
             position: 'right',
           },
@@ -124,7 +124,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/Avidikhuu',
+                href: 'https://github.com/kyotoo33',
               },
             ],
           },
@@ -138,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Avidikhuu. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} kyotoo33. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
